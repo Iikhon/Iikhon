@@ -1,41 +1,50 @@
-# Hi there, I'm @Iikhon 👋
+# Sheikh Likhon | Full Stack Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=Iikhon&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/Iikhon?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/Iikhon?style=social)
+[![Website](https://img.shields.io/badge/Website-likhon.xyz-1abc9c?style=flat-square)](https://likhon.xyz)
+[![Email](https://img.shields.io/badge/Email-sheikh@likhon.xyz-ea4335?style=flat-square)](mailto:sheikh@likhon.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077b5?style=flat-square)](https://linkedin.com/in/Iikhon)
+[![Twitter](https://img.shields.io/twitter/follow/Iikhon?style=flat-square&color=1DA1F2)](https://twitter.com/Iikhon)
+![Profile Views](https://komarev.com/ghpvc/?username=Iikhon&style=flat-square&color=1abc9c)
 
-## About Me
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: [sheikh@likhon.xyz](mailto:sheikh@likhon.xyz)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👨‍💻 About Me
 
-## Connect with Me
-[![Website](https://img.shields.io/badge/Website-likhon.xyz-blue)](https://likhon.xyz)
-[![Email](https://img.shields.io/badge/Email-sheikh@likhon.xyz-blue)](mailto:sheikh@likhon.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/Iikhon)
-[![Twitter](https://img.shields.io/twitter/follow/Iikhon?style=social)](https://twitter.com/Iikhon)
+Full Stack Developer passionate about building innovative web solutions. I specialize in modern web technologies and love creating seamless user experiences.
 
-## Projects
-- 🚀 [Project 1](#)
-- 🚀 [Project 2](#)
-- 🚀 [Project 3](#)
+## 🚀 Featured Projects
 
-## Skills
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="#project-1">Project 1</a><br/>
+      <sub>Tech stack: React, Node.js, MongoDB</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="#project-2">Project 2</a><br/>
+      <sub>Tech stack: Vue.js, Express, PostgreSQL</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="#project-3">Project 3</a><br/>
+      <sub>Tech stack: Python, Django, AWS</sub>
+    </td>
+  </tr>
+</table>
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iikhon&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iikhon&layout=compact&theme=radical)
+## 📊 GitHub Stats
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Iikhon&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iikhon&layout=compact&theme=tokyonight&hide_border=true"/>
+
+## 💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-<!---
-Iikhon/Iikhon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">💌 Open for collaboration and exciting projects!</p>
