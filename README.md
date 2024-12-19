@@ -1,50 +1,56 @@
-# Sheikh Likhon | Full Stack Developer
+# Sheikh Likhon
 
-[![Website](https://img.shields.io/badge/Website-likhon.xyz-1abc9c?style=flat-square)](https://likhon.xyz)
-[![Email](https://img.shields.io/badge/Email-sheikh@likhon.xyz-ea4335?style=flat-square)](mailto:sheikh@likhon.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077b5?style=flat-square)](https://linkedin.com/in/Iikhon)
-[![Twitter](https://img.shields.io/twitter/follow/Iikhon?style=flat-square&color=1DA1F2)](https://twitter.com/Iikhon)
-![Profile Views](https://komarev.com/ghpvc/?username=Iikhon&style=flat-square&color=1abc9c)
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://likhon.xyz)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheikh@likhon.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Iikhon)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Iikhon)
 
-## 👨‍💻 About Me
+</div>
 
-Full Stack Developer passionate about building innovative web solutions. I specialize in modern web technologies and love creating seamless user experiences.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Iikhon&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&hide_title=true" />
+</div>
 
-## 🚀 Featured Projects
+## Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="#project-1">Project 1</a><br/>
-      <sub>Tech stack: React, Node.js, MongoDB</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="#project-2">Project 2</a><br/>
-      <sub>Tech stack: Vue.js, Express, PostgreSQL</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="#project-3">Project 3</a><br/>
-      <sub>Tech stack: Python, Django, AWS</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-## 📊 GitHub Stats
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,python,typescript,nextjs,tailwind,mongodb,postgres&theme=dark)](https://skillicons.dev)
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Iikhon&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iikhon&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-## 💻 Tech Stack
+## Featured Projects
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<div align="center">
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| [Project One](https://github.com) | React, Node.js | Modern web application |
+| [Project Two](https://github.com) | Next.js, TypeScript | Enterprise dashboard |
+| [Project Three](https://github.com) | Python, MongoDB | Data analytics tool |
+
+</div>
+
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iikhon&theme=github-dark&hide_border=true&background=00000000" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iikhon&theme=github-dark&hide_border=true&bg_color=00000000" />
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Iikhon&color=blueviolet&style=for-the-badge)
+
+</div>
 
 ---
 
-<p align="center">💌 Open for collaboration and exciting projects!</p>
+<div align="center">
+  <sub>🔭 Currently working on something cool</sub>
+</div>
